@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.wiley.teasy-fork</groupId>
   <artifactId>teasy-fork</artifactId>
-  <version>2.10.0</version>
+  <version>true</version>
   <description>POM was created from install:install-file</description>
 </project>
